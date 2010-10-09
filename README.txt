@@ -1,2 +1,2 @@
 this is a "fork" of http://code.google.com/p/erlang-mysql-driver with some changes:
-* multiple resultsets supported
+* multiple results supported
